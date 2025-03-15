@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://content.newtonschool.co/v1/pr/64ccef982071a9ad01d36ff6/pokemonspages' ;
